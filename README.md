@@ -1,1 +1,1 @@
-This is the repository to my first rails app .
+This is the repository to my first rails web app.
